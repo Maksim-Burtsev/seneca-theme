@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Paper and ink</title>
+  <desc id="desc">A sheet of folded paper with four quiet lines of ink.</desc>
+  <rect x="8" y="8" width="240" height="240" rx="40" fill="#212121" stroke="#666666" stroke-width="4"/>
+  <path d="M65 35H159L199 75V221H65Z" fill="#f4f2ec"/>
+  <path d="M159 35L199 75H159Z" fill="#d5d2c9"/>
+  <path d="M91 105H169M91 134H169M91 163H154" stroke="#333333" stroke-width="12" stroke-linecap="round"/>
+  <path d="M91 192H139" stroke="#8e8c86" stroke-width="12" stroke-linecap="round"/>
+</svg>

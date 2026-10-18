@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Split disc</title>
+  <desc id="desc">A light and dark circle reversed against a divided ground.</desc>
+  <defs>
+    <clipPath id="card"><rect x="8" y="8" width="240" height="240" rx="40"/></clipPath>
+  </defs>
+  <g clip-path="url(#card)">
+    <rect x="8" y="8" width="120" height="240" fill="#f4f2ec"/>
+    <rect x="128" y="8" width="120" height="240" fill="#212121"/>
+  </g>
+  <path d="M128 50A78 78 0 0 0 128 206Z" fill="#333333"/>
+  <path d="M128 50A78 78 0 0 1 128 206Z" fill="#c0c0c0"/>
+  <rect x="8" y="8" width="240" height="240" rx="40" fill="none" stroke="#8e8c86" stroke-width="4"/>
+</svg>

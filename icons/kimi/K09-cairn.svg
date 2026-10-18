@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Cairn</title>
+  <desc id="desc">Three balanced stones in grey and bronze on a dark ground.</desc>
+  <rect x="8" y="8" width="240" height="240" rx="40" fill="#212121" stroke="#666666" stroke-width="4"/>
+  <rect x="46" y="166" width="164" height="38" rx="19" fill="#666666"/>
+  <rect x="70" y="116" width="116" height="36" rx="18" fill="#c0c0c0"/>
+  <rect x="93" y="73" width="70" height="30" rx="15" fill="#c4a777"/>
+  <circle cx="128" cy="47" r="10" fill="#ececec"/>
+</svg>

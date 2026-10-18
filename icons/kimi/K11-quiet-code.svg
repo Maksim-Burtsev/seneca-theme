@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Quiet code</title>
+  <desc id="desc">Two muted comment slashes above a pale underscore.</desc>
+  <rect x="8" y="8" width="240" height="240" rx="40" fill="#212121" stroke="#666666" stroke-width="4"/>
+  <path d="M86 177L132 79M137 177L183 79" stroke="#666666" stroke-width="22" stroke-linecap="round"/>
+  <path d="M75 204H181" stroke="#c0c0c0" stroke-width="14" stroke-linecap="round"/>
+</svg>

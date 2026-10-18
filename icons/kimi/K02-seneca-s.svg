@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Seneca S</title>
+  <desc id="desc">A quiet grey capital S on a dark ground.</desc>
+  <rect x="8" y="8" width="240" height="240" rx="40" fill="#212121" stroke="#666666" stroke-width="4"/>
+  <path d="M177 72C157 50 99 48 79 76C52 115 183 103 178 155C174 199 106 210 76 178" fill="none" stroke="#c0c0c0" stroke-width="28" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
