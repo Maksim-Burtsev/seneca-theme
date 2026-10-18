@@ -52,9 +52,11 @@ agterm takes selection colours only from its bundled themes, so with a theme loa
 selected sidebar row goes white on white. Repeat the selection colours next to the `theme` line:
 
 ```
-selection-background = #d5d2c9   # seneca: #444444
-selection-foreground = #000000   # seneca: #ffffff
+selection-background = #d5d2c9
+selection-foreground = #000000
 ```
+
+For `seneca`, use `#444444` and `#ffffff`.
 
 **Claude Code.** It draws in your terminal, so set the terminal to seneca first, then pick the
 ANSI-only theme in `/theme` (light or dark): Claude Code then paints with seneca's muted ANSI
