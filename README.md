@@ -76,8 +76,6 @@ Everything you need to port the themes to a new app.
 <img src="assets/palette-seneca.svg" alt="seneca palette">
 <img src="assets/palette-lucerna.svg" alt="lucerna palette">
 
-The strip under each card is the terminal's red, green, yellow, blue, magenta and cyan.
-
 ### Editor
 
 | Role | seneca-light | seneca | lucerna |
