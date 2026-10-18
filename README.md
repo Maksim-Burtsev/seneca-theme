@@ -1,6 +1,6 @@
-<p align="center"><img src="assets/hero.png" alt="merl in seneca-light and seneca" width="860"></p>
+<h1 align="center"><img src="assets/icon.svg" alt="" width="96"><br>seneca</h1>
 
-# seneca
+<p align="center"><img src="assets/hero.png" alt="merl in seneca-light and seneca" width="860"></p>
 
 Quiet themes for reading code: text in one grey, comments in a darker one, nothing else coloured.
 Three of them:

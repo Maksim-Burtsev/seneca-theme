@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
-  <title id="title">Ink nib</title>
-  <desc id="desc">A dark fountain-pen nib with a bronze slit on paper.</desc>
-  <rect x="8" y="8" width="240" height="240" rx="40" fill="#f4f2ec" stroke="#8e8c86" stroke-width="4"/>
-  <path d="M80 55Q128 35 176 55L190 135L128 218L66 135Z" fill="#333333"/>
-  <path d="M78 77H178" stroke="#666666" stroke-width="12" stroke-linecap="round"/>
-  <circle cx="128" cy="130" r="14" fill="#f4f2ec"/>
-  <path d="M128 145V202" stroke="#c4a777" stroke-width="8" stroke-linecap="round"/>
-</svg>

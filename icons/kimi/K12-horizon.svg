@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
-  <title id="title">Horizon</title>
-  <desc id="desc">A bronze half-disc rising over quiet horizontal lines.</desc>
-  <rect x="8" y="8" width="240" height="240" rx="40" fill="#212121" stroke="#666666" stroke-width="4"/>
-  <path d="M73 132A55 55 0 0 1 183 132Z" fill="#c4a777"/>
-  <rect x="40" y="132" width="176" height="14" rx="7" fill="#ececec"/>
-  <rect x="62" y="177" width="132" height="12" rx="6" fill="#666666"/>
-  <rect x="91" y="207" width="74" height="10" rx="5" fill="#444444"/>
-</svg>
